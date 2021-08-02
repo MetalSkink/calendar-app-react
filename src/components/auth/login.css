@@ -5,16 +5,23 @@
     border-radius: 5px;
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
     padding: 5%;
+
+    background: linear-gradient(to top, #e44d26, #f16529); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .login-form-1 h3{
     text-align: center;
     color: #fff;
 }
+.login-form-1 h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
 .login-form-2{
     border-radius: 5px;
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
     padding: 5%;
-    background: #00b4db;
+    background: linear-gradient(to left, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .login-form-2 h3{
     text-align: center;
